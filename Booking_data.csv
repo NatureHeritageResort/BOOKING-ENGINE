@@ -1,0 +1,7 @@
+id,check_in,check_out,Guest_Name,Night,Room_type,Qty,Pax,Contact,Rate,Plan,Agent,Company,Advance_Date,Advance_anount,Advance_Mode,Pickup_Detail,Safari_Detail,Confirm_By,Remark,Status,Entry_Time
+1,01-Jul-25,03-Jul-25,AMAN,2,1.0,,,,,03-07-2025,0,,,,,,CONFIRMED,03-07-2025 16:34,,,
+2,01-08-2025,06-08-2025,RAM BAHADUR,5,6.0,,,,,03-07-2025,0,,,,,,CONFIRMED,03-07-2025 16:51,,,
+3,01-07-2025,03-07-2025,MANOJ,2,,,1.0,,,,,,03-07-2025,0.0,,,,,,CONFIRMED,03-07-2025 17:17
+4,01-07-2025,03-07-2025,FULL BOOK,2,,,1.0,,,,,,03-07-2025,0.0,,,,,,WAITLIST,03-07-2025 17:23
+5,01-07-2025,03-07-2025,TEST,2,,,1.0,,,,,,03-07-2025,0.0,,,,,,CONFIRMED,03-07-2025 17:24
+6,2025-07-04,2025-07-05,ALOK,0,,,1.0,nan,,AP,NHR,NHR,2025-07-04,3000.0,CASH,,,,nan,CONFIRMED,2025-07-04 09:58:47

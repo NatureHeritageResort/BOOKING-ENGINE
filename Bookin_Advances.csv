@@ -1,0 +1,4 @@
+Booking_ID,check_in,check_out,Guest_Name,Advance_Date,Advance_Amount,Advance_Mode
+6,04-Jul-25,04-Jul-25,ALOK,04-Jul-25,3000,CASH
+6,04-Jul-25,04-Jul-25,ALOK,05-Jul-25,3000,CASH
+6,2025-07-04,2025-07-05,ALOK,2025-07-05,5000.0,CASH

@@ -1,0 +1,9 @@
+Booking_ID,check_in,check_out,Guest_Name,Room_Type,Qty,Rate,Check_in,Check_out
+2,01-Aug-25,06-Aug-25,RAM BAHADUR,Deluxe Room,15,,,
+2,01-Aug-25,06-Aug-25,RAM BAHADUR,Family Suits,1,,,
+3,01-Jul-25,03-Jul-25,MANOJ,Deluxe Room,11,0.0,,
+4,01-Jul-25,03-Jul-25,FULL BOOK,Deluxe Room,13,0.0,,
+5,01-Jul-25,03-Jul-25,TEST,Family Suits,1,0.0,,
+1,01-Jul-25,03-Jul-25,AMAN,Deluxe Room,2,,,
+1,01-Jul-25,03-Jul-25,AMAN,Family Suits,1,,,
+6,2025-07-04,2025-07-04,ALOK,Family Suits,4,4000.0,2025-07-04,2025-07-05
