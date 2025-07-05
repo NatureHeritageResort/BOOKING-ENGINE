@@ -1,0 +1,3 @@
+Booking_ID,check_in,check_out,Guest_Name,Advance_Date,Advance_Amount,Advance_Mode
+2,01-Aug-25,06-Aug-25,RAM BAHADUR,05-Jul-25,12450.0,BANK TRANSFER
+2,01-AUG-25,06-AUG-25,RAM BAHADUR,05-JUL-25,200.0,CASH
