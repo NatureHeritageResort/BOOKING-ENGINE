@@ -9,7 +9,7 @@ import time
 # ==============================================
 # CONSTANTS AND CONFIGURATION
 # ==============================================
-BASE_DIR = r"C:\Users\vipul\OneDrive\Desktop\BOOKING\Final Booking"
+#BASE_DIR = r"C:\Users\vipul\OneDrive\Desktop\BOOKING\Final Booking"
 DATE_FORMAT = "%d-%b-%y"  # dd-mmm-yy format
 
 ROOM_TYPES = {
